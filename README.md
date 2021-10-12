@@ -1,2 +1,2 @@
-# Machine_Learning
-ML algorithms
+# Machine_Learning Algorithms
+Implementing Linear Regression
